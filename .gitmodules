@@ -1,0 +1,15 @@
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/straight-dev/llvm
+[submodule "onikiri2"]
+	path = onikiri2
+	url = https://github.com/straight-dev/onikiri2
+[submodule "musl"]
+	path = musl
+	url = https://github.com/straight-dev/musl
+[submodule "sasm2"]
+	path = sasm2
+	url = https://github.com/straight-dev/sasm2
+[submodule "toolchain"]
+	path = toolchain
+	url = https://github.com/straight-dev/toolchain
